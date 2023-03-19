@@ -1,0 +1,20 @@
+
+Account:999060
+Customer Name:Sasanthi
+NIC:200065700190
+Telephone Number:0712131717
+Address:176/S/1,
+Kanuketiya,
+Hidellana,
+Ratnapura
+Gender:Female
+
+Account:606819
+Customer Name:Adithya
+NIC:200082603049
+Telephone Number:0713061172
+Address:1/3,
+Amaragiriwaththa,
+Kandagamuwa,
+Loluwagoda
+Gender:Female
