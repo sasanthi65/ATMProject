@@ -29,7 +29,9 @@ This Java-based ATM management system is designed to facilitate seamless bank tr
 - **Transfer Funds:** Users can transfer funds between accounts securely.
 ![image](https://github.com/sasanthi65/ATMProject/assets/33154236/bb0fbf6b-cf69-4d44-b7c8-5857d0b75780)
 
+
 - **Logout:** Secure logout functionality to end the session.
+  
   ![image](https://github.com/sasanthi65/ATMProject/assets/33154236/8cc658c7-c7b9-4ddf-a411-f9f16e2b40b0)
 
 
