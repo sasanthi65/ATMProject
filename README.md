@@ -2,6 +2,8 @@
 
 ## Overview
 This Java-based ATM management system is designed to facilitate seamless bank transactions through an intuitive GUI. The system allows users to register, log in, deposit, withdraw, transfer funds, check balance, and view transaction history. It ensures secure and efficient handling of user data and transactions.
+
+
 ![image](https://github.com/sasanthi65/ATMProject/assets/33154236/e9afcd05-7768-4149-9098-ae1b4727b72b)
 
 
@@ -29,7 +31,7 @@ This Java-based ATM management system is designed to facilitate seamless bank tr
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/atm-management-system.git
+    git clone https://github.com/sasanthi65/ATMProject.git
     ```
 2. Open the project in your preferred IDE.
 3. Build the project to resolve any dependencies.
